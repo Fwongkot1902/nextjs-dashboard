@@ -2,7 +2,6 @@ import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import styles from '@/app/ui/home.module.css';
-import { lusitana } from '@/app/ui/font';
 import Image from 'next/image';
 import {Mobilehero,Desktophero} from './ui/mobilehero';
 
@@ -26,7 +25,6 @@ export default function Page() {
             </a>
             , brought to you by Vercel.
           </p>
-            <h1 className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}> KPRU</h1>
             
           
           
