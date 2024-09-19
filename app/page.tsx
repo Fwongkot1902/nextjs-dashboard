@@ -26,8 +26,8 @@ export default function Page() {
             </a>
             , brought to you by Vercel.
           </p>
-          <h1 className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}> KPRU</h1>
-          
+            <h1 className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}> KPRU</h1>
+            
           
           
           <div className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"/>
